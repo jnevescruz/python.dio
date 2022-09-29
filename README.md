@@ -6,4 +6,4 @@
   • 22/09/2022 Tipos de Operadores com Python
   • 23/09/2022 Estruturas Condicionais e de Repetição em Python
   • 26/09/2022 Manipulação de strings com Python
-  • 27/09/2022
+  • 29/09/2022 Análise de dados com Python e Pandas
