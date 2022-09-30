@@ -7,3 +7,4 @@
   • 23/09/2022 Estruturas Condicionais e de Repetição em Python
   • 26/09/2022 Manipulação de strings com Python
   • 29/09/2022 Análise de dados com Python e Pandas
+  • 30/09/2022 Trabalhando com Listas em Python
