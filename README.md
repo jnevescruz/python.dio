@@ -8,3 +8,7 @@
   • 26/09/2022 Manipulação de strings com Python
   • 29/09/2022 Análise de dados com Python e Pandas
   • 30/09/2022 Trabalhando com Listas em Python
+  • 01/10/2022 Conhecendo Tuplas em Python
+  • 03/10/2022 Explorando Conjuntos em Python
+  • 03/10/2022 Aprendendo a Utilizar Dicionários em Python
+  • 03/10/2022 Dominando Funções Python
