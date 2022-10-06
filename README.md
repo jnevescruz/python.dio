@@ -12,3 +12,5 @@
   • 03/10/2022 Explorando Conjuntos em Python
   • 03/10/2022 Aprendendo a Utilizar Dicionários em Python
   • 03/10/2022 Dominando Funções Python
+  • 05/10/2022 Fundamentos de ETL (Extract, Transform, Load) com Python
+  • 06/10/2022 Introdução à Programação Orientada a Objetos (POO) com Python
