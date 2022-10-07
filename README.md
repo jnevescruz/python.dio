@@ -14,3 +14,4 @@
   • 03/10/2022 Dominando Funções Python
   • 05/10/2022 Fundamentos de ETL (Extract, Transform, Load) com Python
   • 06/10/2022 Introdução à Programação Orientada a Objetos (POO) com Python
+  • 07/10/2022 Aprendendo o Conceito de Herança com Python
