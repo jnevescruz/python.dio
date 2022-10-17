@@ -10,7 +10,6 @@ class ControleRemoto(ABC):
     def desligar(self):
         pass
 
-    @property
     @abstractproperty
     def marca(self):
         pass

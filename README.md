@@ -18,3 +18,4 @@
   • 11/10/2022 Aplicando Encapsulamento em Python
   • 12/10/2022 Conhecendo Polimorfismo em Python
   • 13/10/2022 Ampliando o conhecimento em POO com Python
+  • 17/10/2022 Descomplicando a criação de pacotes de processamento de imagens em Python
