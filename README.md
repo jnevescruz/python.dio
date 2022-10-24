@@ -20,3 +20,8 @@
   • 13/10/2022 Ampliando o conhecimento em POO com Python
   • 17/10/2022 Descomplicando a criação de pacotes de processamento de imagens em Python
   • 18/10/2022 Criando modelos com Python e Machine Learning para prever a evolução do COVID-19 no Brasil
+  • 19/10/2022 Introdução a Banco de Dados
+  • 20/10/2022 Sistemas de Gerenciamento de Banco de Dados
+  • 24/10/2022 Modelagem de Dados para Banco de Dados
+  • 24/10/2022 Arquitetura de Banco de Dados
+ 
